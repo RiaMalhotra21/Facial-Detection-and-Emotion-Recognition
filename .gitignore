@@ -1,0 +1,17 @@
+fer_env/
+
+models/best_emotion_model.keras
+
+yolo8n.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db

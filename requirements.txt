@@ -1,0 +1,11 @@
+tensorflow==2.19.0
+ultralytics
+opencv-python
+numpy
+streamlit
+streamlit-webrtc
+av
+matplotlib
+seaborn
+Pillow
+scikit-learn
